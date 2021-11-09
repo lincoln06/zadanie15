@@ -1,0 +1,14 @@
+C:\Users\macie\source\repos\zadanie15\zadanie15\bin\Debug\netcoreapp3.1\zadanie15.exe
+C:\Users\macie\source\repos\zadanie15\zadanie15\bin\Debug\netcoreapp3.1\zadanie15.deps.json
+C:\Users\macie\source\repos\zadanie15\zadanie15\bin\Debug\netcoreapp3.1\zadanie15.runtimeconfig.json
+C:\Users\macie\source\repos\zadanie15\zadanie15\bin\Debug\netcoreapp3.1\zadanie15.runtimeconfig.dev.json
+C:\Users\macie\source\repos\zadanie15\zadanie15\bin\Debug\netcoreapp3.1\zadanie15.dll
+C:\Users\macie\source\repos\zadanie15\zadanie15\bin\Debug\netcoreapp3.1\zadanie15.pdb
+C:\Users\macie\source\repos\zadanie15\zadanie15\obj\Debug\netcoreapp3.1\zadanie15.csproj.AssemblyReference.cache
+C:\Users\macie\source\repos\zadanie15\zadanie15\obj\Debug\netcoreapp3.1\zadanie15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macie\source\repos\zadanie15\zadanie15\obj\Debug\netcoreapp3.1\zadanie15.AssemblyInfoInputs.cache
+C:\Users\macie\source\repos\zadanie15\zadanie15\obj\Debug\netcoreapp3.1\zadanie15.AssemblyInfo.cs
+C:\Users\macie\source\repos\zadanie15\zadanie15\obj\Debug\netcoreapp3.1\zadanie15.csproj.CoreCompileInputs.cache
+C:\Users\macie\source\repos\zadanie15\zadanie15\obj\Debug\netcoreapp3.1\zadanie15.dll
+C:\Users\macie\source\repos\zadanie15\zadanie15\obj\Debug\netcoreapp3.1\zadanie15.pdb
+C:\Users\macie\source\repos\zadanie15\zadanie15\obj\Debug\netcoreapp3.1\zadanie15.genruntimeconfig.cache
