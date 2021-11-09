@@ -8,15 +8,17 @@ namespace zadanie15
         {
             Console.Clear();
             Console.WriteLine("Podaj liczbę całkowitą większą lub równą 0");
-            int potega = int.Parse(Console.ReadLine());
-            int bufor = 1;
-            int licznik = 1;
+            double potega = double.Parse(Console.ReadLine());
+            double bufor = 1;
+            double licznik = 1;
             while(potega<0)
             {
                 Console.Clear();
-                Console.WriteLine("Podałeś nieprawidłową liczbę");
+                Console.WriteLine("Podałeś nieprawidłową liczbę. Naciśnij dowolny klawisz aby spróbować jeszcze raz...");
+                Console.ReadKey();
+                Console.Clear();
                 Console.WriteLine("Podaj liczbę całkowitą większą lub równą 0");
-                potega = int.Parse(Console.ReadLine());
+                potega = double.Parse(Console.ReadLine());
             }
             Console.Clear();
             if (potega == 0)
